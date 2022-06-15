@@ -1,8 +1,9 @@
 # basic-rest-api
-
+# Prewiev 
+<link>https://api-a12.herokuapp.com/api/todo</link><br/>
 This api project was created by O.Serdar Sarıtaş.
 
-Api has;
+# Api has
 
 <ul>
 <li>/api/todo -- Get method which returns whole todo collection</li>
